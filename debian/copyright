@@ -1,0 +1,8 @@
+Please consult https://sourceforge.net/p/wine/wine-gecko/ci/master/tree/LICENSE
+for licensing information, and https://www.mozilla.org/credits/ for a list of
+Gecko contributors. A copy of the Gecko license file is also available in this
+package's source code as license.html.
+
+This package was Debianized by James Lu <james@overdrivenetworks.com>,
+and released under the Mozilla Public License, version 2.0. The full text of
+the license can be found at "/usr/share/common-licenses/MPL-2.0".

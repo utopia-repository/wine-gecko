@@ -1,0 +1,5 @@
+wine-gecko-unofficial (2.47~utopia1) unstable; urgency=low
+
+  * Initial release, compatible with Wine 1.9.13+
+
+ -- James Lu <bitflip3@gmail.com>  Tue, 29 Aug 2017 17:26:38 -0700

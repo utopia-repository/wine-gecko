@@ -1,0 +1,18 @@
+Source: wine-gecko-unofficial
+Section: contrib/otherosfs
+Priority: optional
+Maintainer: James Lu <bitflip3@gmail.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 4.1.0
+Homepage: https://wiki.winehq.org/Gecko
+#Vcs-Git: https://github.com/utopia-repository/wine-gecko-unofficial
+#Vcs-Browser: https://github.com/utopia-repository/wine-gecko-unofficial
+
+Package: wine-gecko-2.47
+Architecture: all
+Depends: ${misc:Depends}, wine (>= 1.9.13)
+Description: Wine Gecko HTML renderer
+ This package contains Wine Gecko, which is used by Wine to render HTML
+ pages.
+ .
+ This version of Wine Gecko (2.47) is compatible with Wine 1.9.13 and above.
